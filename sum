@@ -1,0 +1,12 @@
+\documentclass{article}
+\usepackage[framemethod=TikZ]{mdframed}
+\usepackage{amsthm}
+
+\begin{document}
+
+\[ \sum_{n=1}^{\infty} 2^{-n} = 1 \]
+\[
+    \sum^k_{i=1}\sum^i_{j=1} a_{ij}
+\]
+
+\end{document}
